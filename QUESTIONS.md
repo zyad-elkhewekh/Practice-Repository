@@ -84,6 +84,10 @@ techincally a combine not keep
 your PR show?**
 
 > Your answer here.
+[the link](https://github.com/IbrahimYasserM/Practice-Repository/pull/2)
+4 commits
+2 files changed (QUESTIONS.md and CONTRIBUTORS.md)
+note that its about to change since pr template was changed and this should be the 5th commit now
 
 ---
 
@@ -93,9 +97,14 @@ your PR show?**
 or felt different from what you expected going in?**
 
 > Your answer here.
+being forced to link the original repo beside my fork :) im not used to doing it but i realise how much easier it would have made my life.
 
 **10. If a teammate asked you to explain the difference between `fork`,
 `clone`, `origin`, and `upstream` in one or two sentences each, what would
 you say?**
 
 > Your answer here.
+`fork` is a remote copy of some repo but linked to my account, meaning im the owner and have push access to this copy.
+`clone` is *local* copy of some repo, it can be a repo i own, some fork of another repo, or another repo altogether.
+`origin` is the default name for a remote to a local repo i have and own.
+while `upstream` is a usual naming convention for a remote to a repo that idont own, i may have forked it but i need to fetch changes from the original to ensure clean working.
