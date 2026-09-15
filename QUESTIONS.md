@@ -54,6 +54,12 @@ the distinction matters to allow me to get other changes from the original (aka 
 follow the convention from `CONTRIBUTING.md`?**
 
 > Your answer here.
+```
+cccde0e (HEAD -> docs/my-contributer-name) docs: added my name to the list
+3b30f00 (origin/main, origin/HEAD, main) Clarify task labeling in README
+f5ecf54 Revise task assignment instructions in README
+```
+yes they do follow
 
 ---
 
@@ -62,10 +68,13 @@ follow the convention from `CONTRIBUTING.md`?**
 **6. What caused the conflict? Which file and lines were involved?**
 
 > Your answer here.
+CONTRIBUTORS.md caused the conflict due to a name being inserted at the end where i originally inserted mine
 
 **7. How did you resolve it — what did you keep, remove, or combine, and why?**
 
 > Your answer here.
+all i had to do was keep both new names (Mohammed Nasser and me) and remove gits warning text
+techincally a combine not keep
 
 ---
 
