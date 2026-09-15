@@ -15,16 +15,19 @@ revision.
 branch name you plan to use.**
 
 > Your answer here.
+it uses type/description convention, example: docs/my-contributer-name
 
 **2. What commit message format is required? Write the exact commit message
 you plan to use for your change.**
 
 > Your answer here.
+type: description, example: docs: added my name to the list
 
 **3. Does this project expect a linked issue before opening a PR, or is a PR
 description enough?**
 
 > Your answer here.
+yes it expects a linked issue or a task to my pr
 
 ---
 
@@ -34,6 +37,14 @@ description enough?**
 is `origin` and which is `upstream`, and why does that distinction matter?**
 
 > Your answer here.
+```
+origin  git@github.com:zyad-elkhewekh/Practice-Repository.git (fetch)
+origin  git@github.com:zyad-elkhewekh/Practice-Repository.git (push)
+upstream        git@github.com:IbrahimYasserM/Practice-Repository.git (fetch)
+upstream        git@github.com:IbrahimYasserM/Practice-Repository.git (push)
+```
+`origin` remote is my forked clone and `upstream` is the original,
+the distinction matters to allow me to get other changes from the original (aka other peoples forks' changes from their locals) and keep my changes safe
 
 ---
 
